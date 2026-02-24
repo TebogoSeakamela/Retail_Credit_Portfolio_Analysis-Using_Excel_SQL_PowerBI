@@ -23,6 +23,11 @@ Segmentation: SQL used to group borrowers by Credit Score tiers, DTI tiers and e
 Aggregation: Calculated total borrower's, default counts and default rates by segment.
 Dashboard Development: Power BI used to build visuals that include top summary cards, doughnut charts, loan table and interactive slicers 
 
+## Datasets
+* This project uses a **synthesized retail loan dataset sourced from Kaggle**
+* The data is **anonymized** and contains no personally identifiable information
+
+
 ## Key Findings
 Borrowers in the low Credit Score segment show higher default counts. Confirming that Credit Score is a strong predictor of risk.
 Borrowers with a higher Debt-to Income ratio show increased defaulted rates indicating that thinner repayment capacity increases risk of default.
